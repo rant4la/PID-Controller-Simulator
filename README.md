@@ -6,7 +6,7 @@ Steps for tuning your system:
 2. Next change the setpointFunction so that it best simulates what kind of setpoint control your system needs to react to.
 3. Finally run the code and you should see a visualization of the best setpoint and location graph:
 
-![image](https://user-images.githubusercontent.com/33716618/220731641-f0f897ac-c6c9-46bd-beeb-df0d614df3bd.png)
+![image](https://user-images.githubusercontent.com/33716618/220734645-e29b0c93-4e40-46ed-aa80-7621808f613f.png)
 
 4. At the top you can see the best values the optimizer found for P, I and D coefficients and also the cumulative error (absolute error integral):
 
