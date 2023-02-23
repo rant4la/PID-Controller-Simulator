@@ -4,7 +4,7 @@ This is a PID controller simulator which can automatically tune the correct P, I
 Steps for tuning your system:
 1. Change the System spring, drag and mass constants to best fit your system that you are modeling.
 2. Next change the setpointFunction so that it best simulates what kind of setpoint control your system needs to react to.
-3. Finally run the code and you should see a visualization of the best setpoint and location graph:
+3. Finally run the code and you should see a visualization of the setpoint and location graph of the best PID solution:
 
 ![image](https://user-images.githubusercontent.com/33716618/220734645-e29b0c93-4e40-46ed-aa80-7621808f613f.png)
 
